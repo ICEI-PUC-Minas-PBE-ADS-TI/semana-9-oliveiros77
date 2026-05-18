@@ -4,8 +4,8 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Oliveiros Jhonatan 
+- Matrícula: 1662959
 
 ## Prints do trabalho
 
